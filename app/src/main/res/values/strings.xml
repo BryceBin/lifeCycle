@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">activityLifeCycle</string>
+    <string name="list">LifeCycle Method List</string>
+    <string name="status">Activity Status</string>
+    <drawable name="bgcolor_A">#55ffff</drawable>
+    <string name="alphaActivity">Activity A</string>
+    <string name="bravoActivity">Activity B</string>
+    <string name="charlieActivity">Activity C</string>
+    <string name="startA">Start A</string>
+    <string name="startB">Start B</string>
+    <string name="startC">Start C</string>
+    <string name="finishA">Finish A</string>
+    <string name="finishB">Finish B</string>
+    <string name="finishC">Finish C</string>
+    <string name="dialog">Dialog</string>
+</resources>
